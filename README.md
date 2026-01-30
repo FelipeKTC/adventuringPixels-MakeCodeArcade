@@ -1,26 +1,22 @@
- 
+## Adventuring Pixels MakeCode Arcade
+
+Este repositório contém o jogo Adventuring Pixels, desenvolvido utilizando a plataforma MakeCode Arcade como parte do projeto final da disciplina Introdução à Engenharia de Computação da Universidade Federal de Itajubá (UNIFEI) - Campus Itajubá em 2024.
+
+## Sobre o Jogo
+
+Adventuring Pixels é um projeto criado para aplicar conceitos de programação e lógica aprendidos durante a disciplina. O jogo foi desenvolvido em TypeScript dentro do ambiente MakeCode Arcade, que permite criar jogos 2D de forma visual e interativa.
+
+## Objetivos do Projeto
+
+- Praticar programação orientada a objetos e lógica computacional.
+- Aprender sobre desenvolvimento de jogos 2D.
 
 
-> Open this page at [https://felipektc.github.io/adventuringpixels-makecodearcade/](https://felipektc.github.io/adventuringpixels-makecodearcade/)
+---
 
-## Use as Extension
+**UNIFEI - Campus Itajubá**  
+Disciplina: Introdução à Engenharia de Computação  
+Ano: 2024 
+**Projeto desenvolvido sob orientação do Professor Dr. JOÃO PAULO REUS RODRIGUES LEITE**
 
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/felipektc/adventuringpixels-makecodearcade** and import
-
-## Edit this project
-
-To edit this repository in MakeCode.
-
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/felipektc/adventuringpixels-makecodearcade** and click import
-
-#### Metadata (used for search, rendering)
-
-* for PXT/arcade
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+---
